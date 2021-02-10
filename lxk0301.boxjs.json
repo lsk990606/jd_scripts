@@ -298,14 +298,10 @@
         "jd_plantBean1",
         "jd_plantBean2",
         "jd_plantBean3",
-        "jd_plantBean4",
-        "jd_plantBean5",
         "jd2_plant_bean_name",
         "jd2_plantBean1",
         "jd2_plantBean2",
-        "jd2_plantBean3",
-        "jd2_plantBean4",
-        "jd2_plantBean5"
+        "jd2_plantBean3"
       ],
       "settings": [
         {
@@ -344,20 +340,6 @@
           "desc": "种豆得豆互助码.这是别人的助力码,你帮别人助力."
         },
         {
-          "id": "jd_plantBean4",
-          "name": "京东账号一互助码4",
-          "val": "",
-          "type": "text",
-          "desc": "种豆得豆互助码.这是别人的助力码,你帮别人助力."
-        },
-        {
-          "id": "jd_plantBean5",
-          "name": "京东账号一互助码5",
-          "val": "",
-          "type": "text",
-          "desc": "种豆得豆互助码.这是别人的助力码,你帮别人助力."
-        },
-        {
           "id": "jd2_plant_bean_name",
           "name": "京东账号二昵称",
           "val": "",
@@ -380,20 +362,6 @@
         },
         {
           "id": "jd2_plantBean3",
-          "name": "京东账号二互助码3",
-          "val": "",
-          "type": "text",
-          "desc": "种豆得豆互助码.这是别人的助力码,你帮别人助力."
-        },
-        {
-          "id": "jd2_plantBean4",
-          "name": "京东账号二互助码3",
-          "val": "",
-          "type": "text",
-          "desc": "种豆得豆互助码.这是别人的助力码,你帮别人助力."
-        },
-        {
-          "id": "jd2_plantBean5",
           "name": "京东账号二互助码3",
           "val": "",
           "type": "text",
